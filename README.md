@@ -9,6 +9,6 @@ koodmeeter (codemeter) is a password strength score tool.
 ```javascript
 var minimumCharacters = 8;
 var koodmeeter = new KoodMeeter('mypassword', minimumCharacters);
-# Logs password strength level from 0-5
+// Logs password strength level from 0-5
 console.log(koodmeeter.check());
 ```
