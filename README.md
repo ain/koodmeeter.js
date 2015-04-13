@@ -4,6 +4,8 @@
 
 koodmeeter (codemeter) is a password strength score tool.
 
+If you'd like to use koodmeeter in a Ruby project, check [koodmeeter Ruby gem](https://github.com/ain/koodmeeter).
+
 ### Usage example
 
 ```javascript
